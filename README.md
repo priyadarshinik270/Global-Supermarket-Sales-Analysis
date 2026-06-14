@@ -1,4 +1,4 @@
-Global Supermarket Sales Analysis
+GLOBAL SUPERMARKET SALES ANALYSIS
 
  📌 Project Description
 
